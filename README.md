@@ -1,2 +1,3 @@
 # general
-Мой общий репозиторий
+Мой общий репозиторий:
+[https://github.com/VadimGlinskiy/ansible](ansible)
