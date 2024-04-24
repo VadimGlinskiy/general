@@ -3,5 +3,5 @@
 - **ansible** - [https://github.com/VadimGlinskiy/ansible](ansible);
 - **bash** - [https://github.com/VadimGlinskiy/bash](bash);
 - **kubernetes** - [https://github.com/VadimGlinskiy/kubernetes](kubernetes);
-- **terraform** -
+- **[terraform](https://github.com/VadimGlinskiy/terraform)**;
 - **[yandex.cloud](https://github.com/VadimGlinskiy/yc-cli)**;
