@@ -5,3 +5,4 @@
 - **[kubernetes](https://github.com/VadimGlinskiy/kubernetes)**;
 - **[terraform](https://github.com/VadimGlinskiy/terraform)**;
 - **[yandex.cloud](https://github.com/VadimGlinskiy/yc-cli)**;
+- **[python](https://github.com/VadimGlinskiy/python)**;
